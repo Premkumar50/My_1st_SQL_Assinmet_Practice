@@ -1,4 +1,4 @@
-# SQL Employee Management Assignment
+# Employee Management Assignment (1st SQL)
 
 ## 📌 About This Project
 
